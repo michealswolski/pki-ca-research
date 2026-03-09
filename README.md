@@ -20,7 +20,7 @@ Research project analyzing Public Key Infrastructure vulnerabilities, certificat
 | Let's Encrypt / ACME | Automated CA issuance model |
 
 ## Deliverable
-Comprehensive research report submitted as academic coursework and used as a writing sample for my Bosch internship application.
+Comprehensive research report submitted as academic coursework and used as a professional writing sample.
 
 ## What I Learned
 - Deep understanding of PKI trust chains and their failure modes
